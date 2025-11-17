@@ -1,6 +1,6 @@
 # OPEN-SOURCE-EX-3
-## NAME : ABDUL KALAAM K M
-## REG NO : 212223230003
+## NAME : THEJESWARAN M
+## REG NO : 212223240168
 # STEPS INVOLVED:
 ### STEP 1 : sudo groupadd admin
 ### STEP 2 : sudo useradd -m -G admin harry
